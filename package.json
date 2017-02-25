@@ -1,0 +1,20 @@
+{
+  "name": "location_station",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/courtneymcallister/location_station/issues"
+  },
+  "homepage": "https://github.com/courtneymcallister/location_station#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "express": "^4.14.1"
+  }
+}
